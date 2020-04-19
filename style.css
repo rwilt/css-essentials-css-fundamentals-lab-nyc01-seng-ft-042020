@@ -25,11 +25,11 @@ nav a{
   width: 100%;
 }
 
-nav{
+header#nav {
   margin-left: auto;
   margin-right: auto;;
   width: 100%;
-  display: block; 
+  display: block;
 }
 
 figcaption{
