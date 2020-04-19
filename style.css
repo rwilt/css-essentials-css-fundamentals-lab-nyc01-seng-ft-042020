@@ -17,12 +17,13 @@ img {
 
 nav a{
   /*display: block;
-  /*text-align: center;*/
+
   margin-left: auto;
   margin-right: auto;*/
   /*width: 40%;*/
   padding:0 10px 0 10px;
   background-color: #fef2db;
+  text-align: center;
 }
 
 figcaption{
