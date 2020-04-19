@@ -27,7 +27,7 @@ nav a{
 
 nav{
   position: absolute;
-  right: 100px;
+  right: auto;
   width: 100%;
 
 }
