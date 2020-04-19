@@ -27,11 +27,9 @@ nav a{
 
 
 nav{
-
   position: absolute;
   right: 0px;
-  width: 300px;
-
+  width: 100%;
 
 }
 figcaption{
