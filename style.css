@@ -27,6 +27,7 @@ nav{
   margin: auto;
   width: 50%;
 }
+
 figcaption{
   text-align: center;
   font-size: 14px;
@@ -37,4 +38,9 @@ margin-left: auto;
 margin-right: auto;
  width: 800px;
  text-align: center;
+}
+
+section#details{
+display: block;
+float: left;
 }
