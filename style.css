@@ -46,5 +46,7 @@ display: block;
 
 section#details div{
   float: left;
-
+  background-color: cornsilk;
+  text-align: center;
+  width: 25%;
 }
